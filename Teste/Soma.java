@@ -1,6 +1,6 @@
 package Teste;
 
-public class ex1 {
+public class Soma {
     public static void main(String[] args) {
 
         int indice = 13;
