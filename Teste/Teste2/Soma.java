@@ -1,8 +1,7 @@
-package Teste;
+package Teste.Teste2;
 
 public class Soma {
     public static void main(String[] args) {
-
         int indice = 13;
 
         int soma = 0;

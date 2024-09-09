@@ -1,4 +1,4 @@
-package Teste;
+package Teste.Teste2;
 
 import java.util.Scanner;
 
@@ -25,4 +25,5 @@ public class Fibonacci {
 
         scanner.close();
     }
+    
 }

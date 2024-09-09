@@ -1,4 +1,4 @@
-package Teste;
+package Teste.Teste1;
 
 public class FatMensal {
     public static void main(String[] args) {
